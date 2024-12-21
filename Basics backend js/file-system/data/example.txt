@@ -1,0 +1,2 @@
+Hello from nodejs
+HELLO HELLO MIC TESTING
